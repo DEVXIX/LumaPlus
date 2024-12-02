@@ -1,6 +1,6 @@
 # Welcome to Luma Plus
 
-Hi here's a quick guide on how to use **Luma Island **. If you want to play the game with more than 4 people by using **BepinEx 5.6 and Luma Island** that can be downloaded from the Repo
+Hi here's a quick guide on how to use LumaPlus . If you want to play the game with more than 4 people by using **BepinEx 5.6 and Luma Island** that can be downloaded from the Repo
 
 
 # Files
