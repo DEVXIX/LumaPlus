@@ -12,9 +12,9 @@ BepinEx allows you to mod most Unity Mono Games, similar to Luma Island and Leth
 
 # How to install
 
-> Follow the guide on the link above
-> Put the LumaPlus.dll inside the BepinEx/plugins Folder
-> Host the lobby, make it "All Friends"
-> Invite your friends, and let them join from the "Join Game Tab"
-> Your join game dialog should look like the image below, and you're set to go.
+> Follow the guide on the link above <br/>
+> Put the LumaPlus.dll inside the BepinEx/plugins Folder <br/>
+> Host the lobby, make it "All Friends" <br/>
+> Invite your friends, and let them join from the "Join Game Tab" <br/>
+> Your join game dialog should look like the image below, and you're set to go. <br/>
 ![enter image description here](https://i.imgur.com/hAuHxbC.png)
