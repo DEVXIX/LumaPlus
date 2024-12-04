@@ -1,6 +1,7 @@
 <p align="center">
  <h2 align="center">LumaPlus</h2>
-  <img width="800px" src="https://imgur.com/tIjc6UU.png" align="center" alt="Logo Background" />
+ <p align="center">
+ <img width="800px" src="https://imgur.com/tIjc6UU.png" align="center" alt="Logo Background" />
  <p align="center">🧑‍🌾🥕 This mod allows you to play with more than 4 players 🥕🧑‍🌾
 </p>
 
