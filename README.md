@@ -50,8 +50,7 @@ To build LumaPlus, follow these steps (This is for visual studio):
 
 2. **Open the Solution in Visual Studio**: Navigate to the folder where you cloned the repository and open the `.sln` (solution) file in Visual Studio. 
 
-3. **Reference Required DLLs**: 
-- Copy all necessary DLLs to /GameRefs folder and Bepinex dlls to /GameRefs/Bepinex
+3. **Reference Required DLLs**: Copy all necessary DLLs to /GameRefs folder and Bepinex dlls to /GameRefs/Bepinex
 
 4. **Build the Project**: You can build the project by selecting **Build** from the top menu and then clicking on **Build Solution** (or simply press `Ctrl + Shift + B`). This will compile the project and generate the DLL file.
 
